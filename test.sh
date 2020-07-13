@@ -12,6 +12,7 @@ server.port = 3000
 
 server.username = "git_view"
 server.groupname = "git_view"
+
 mimetype.assign = (
   ".html" => "text/html",
   ".txt" => "text/plain",
